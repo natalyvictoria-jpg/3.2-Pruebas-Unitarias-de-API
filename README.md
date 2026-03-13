@@ -77,6 +77,11 @@ Lo que diferencia este proyecto de una API básica es la suite completa de prueb
 
   ![pruebas](https://github.com/natalyvictoria-jpg/3.2-Pruebas-Unitarias-de-API/raw/main/cuatro.jpeg)
 
+  ## Reporte Coverage
+  
+    ![pruebas](https://github.com/natalyvictoria-jpg/3.2-Pruebas-Unitarias-de-API/raw/main/cinco.jpeg)
+
+
 ## 🛠 Tecnologías
 
 Python 3.14 + Flask 3.x
