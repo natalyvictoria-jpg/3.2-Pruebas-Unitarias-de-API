@@ -23,5 +23,9 @@
 
  ![pruebas](https://github.com/natalyvictoria-jpg/3.2-Pruebas-Unitarias-de-API/raw/main/uno.jpeg)
 
+  ![pruebas](https://github.com/natalyvictoria-jpg/3.2-Pruebas-Unitarias-de-API/raw/main/dos.jpeg)
+
+   ![pruebas](https://github.com/natalyvictoria-jpg/3.2-Pruebas-Unitarias-de-API/raw/main/tres.jpeg)
+
 
 
