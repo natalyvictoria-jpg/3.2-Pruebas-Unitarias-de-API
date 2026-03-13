@@ -75,6 +75,7 @@ Lo que diferencia este proyecto de una API básica es la suite completa de prueb
 | `test_tienda.py` | End-to-End | 5 |
 | **Total** | | **46 ✅** |
 
+  ![pruebas](https://github.com/natalyvictoria-jpg/3.2-Pruebas-Unitarias-de-API/raw/main/cuatro.jpeg)
 
 ## 🛠 Tecnologías
 
